@@ -2,3 +2,4 @@ signup
 user name
 password 
 phone no
+e-mail
